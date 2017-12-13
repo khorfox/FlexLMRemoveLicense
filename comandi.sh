@@ -1,0 +1,9 @@
+lmremove -h XAP-01-004 testunic 27000@testunic 11752 
+lmremove -h XAP-01-004 testunic 27000@testunic 6552 
+lmremove -h XAP-01-004 testunic 27000@testunic 11038 
+lmremove -h XAP-01-004 testunic 27000@testunic 4662 
+lmremove -h XAP-01-004 testunic 27000@testunic 7939 
+lmremove -h XAP-01-004 testunic 27000@testunic 965 
+lmremove -h XAP-01-004 testunic 27000@testunic 6862 
+lmremove -h XAP-01-004 testunic 27000@testunic 2679 
+lmremove -h XAP-01-004 testunic 27000@testunic 1368 

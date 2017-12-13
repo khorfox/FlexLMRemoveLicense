@@ -1,0 +1,1 @@
+perl analizza.pl pippi.log 2

@@ -1,0 +1,50 @@
+lmstat - Copyright (c) 1989-2003 by Macrovision Corporation. All rights reserved.
+Flexible License Manager status on Mon 2/23/2015 17:59
+
+License server status: 27000@testunic
+    License file(s) on testunic: /XPERCOM/granite/products/xng/v5.1.3.00/Xngserver/license/license.dat:
+
+  testunic: license server UP (MASTER) v8.4
+
+Vendor daemon status (on testunic):
+
+  granitex: UP v8.4
+
+Feature usage info:
+
+Users of IFR-01-000:  (Total of 9999 licenses issued;  Total of 0 licenses in use)
+
+Users of XAP-01-004:  (Total of 9999 licenses issued;  Total of 8 licenses in use)
+
+  "XAP-01-004" v1.0, vendor: granitex
+  floating license
+
+    JavaUser unicaco2 (v1.0) (testunic/27000 8154), start Mon 2/23 16:48
+    JavaUser unicaco2 (v1.0) (testunic/27000 11068), start Mon 2/23 16:48
+    JavaUser unicaco2 (v1.0) (testunic/27000 5039), start Mon 2/23 17:06
+    JavaUser unicaco2 (v1.0) (testunic/27000 1395), start Mon 2/23 17:06
+    JavaUser unicaco2 (v1.0) (testunic/27000 1910), start Mon 2/23 17:18
+    JavaUser unicaco2 (v1.0) (testunic/27000 5824), start Mon 2/23 17:20
+    JavaUser unicaco2 (v1.0) (testunic/27000 11966), start Mon 2/23 17:30
+    JavaUser unicaco2 (v1.0) (testunic/27000 4614), start Mon 2/23 17:31
+
+Users of XAP-01-005:  (Total of 9999 licenses issued;  Total of 0 licenses in use)
+
+Users of XCN-01-000:  (Total of 9999 licenses issued;  Total of 0 licenses in use)
+
+Users of XCO-01-001:  (Total of 9999 licenses issued;  Total of 0 licenses in use)
+
+Users of XCV-01-001:  (Total of 9999 licenses issued;  Total of 0 licenses in use)
+
+Users of XCV-01-002:  (Total of 9999 licenses issued;  Total of 0 licenses in use)
+
+Users of XCV-01-003:  (Total of 9999 licenses issued;  Total of 0 licenses in use)
+
+Users of XEV-01-000:  (Total of 9999 licenses issued;  Total of 0 licenses in use)
+
+Users of XIP-01-000:  (Total of 9999 licenses issued;  Total of 0 licenses in use)
+
+Users of XWB-01-000:  (Total of 9999 licenses issued;  Total of 0 licenses in use)
+
+Users of XWX-01-001:  (Total of 9999 licenses issued;  Total of 0 licenses in use)
+

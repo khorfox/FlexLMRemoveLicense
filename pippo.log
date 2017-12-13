@@ -1,0 +1,38 @@
+lmstat - Copyright (c) 1989-2003 by Macrovision Corporation. All rights reserved.
+Flexible License Manager status on Fri 2/20/2015 23:20
+
+License server status: 27000@testunic
+    License file(s) on testunic: /XPERCOM/granite/products/xng/v5.1.3.00/Xngserver/license/license.dat:
+
+  testunic: license server UP (MASTER) v8.4
+
+Vendor daemon status (on testunic):
+
+  granitex: UP v8.4
+
+Feature usage info:
+
+Users of IFR-01-000:  (Total of 9999 licenses issued;  Total of 0 licenses in use)
+
+Users of XAP-01-004:  (Total of 9999 licenses issued;  Total of 0 licenses in use)
+
+Users of XAP-01-005:  (Total of 9999 licenses issued;  Total of 0 licenses in use)
+
+Users of XCN-01-000:  (Total of 9999 licenses issued;  Total of 0 licenses in use)
+
+Users of XCO-01-001:  (Total of 9999 licenses issued;  Total of 0 licenses in use)
+
+Users of XCV-01-001:  (Total of 9999 licenses issued;  Total of 0 licenses in use)
+
+Users of XCV-01-002:  (Total of 9999 licenses issued;  Total of 0 licenses in use)
+
+Users of XCV-01-003:  (Total of 9999 licenses issued;  Total of 0 licenses in use)
+
+Users of XEV-01-000:  (Total of 9999 licenses issued;  Total of 0 licenses in use)
+
+Users of XIP-01-000:  (Total of 9999 licenses issued;  Total of 0 licenses in use)
+
+Users of XWB-01-000:  (Total of 9999 licenses issued;  Total of 0 licenses in use)
+
+Users of XWX-01-001:  (Total of 9999 licenses issued;  Total of 0 licenses in use)
+
